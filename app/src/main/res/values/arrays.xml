@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timetable_spinner_values">
+        <item>
+            "Default Timetable"
+        </item>
+        <item>
+            "Personal Timetable"
+        </item>
+    </string-array>
+    <string-array name="lessonTypes">
+        <item>"PERSONAL"</item>
+        <item>"REGULAR_LESSON"</item>
+    </string-array>
+</resources>

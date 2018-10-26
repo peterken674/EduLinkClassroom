@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">EduLink Classroom</string>
+    <string name="nav_header_title">get username (and profile pic)</string>
+    <string name="slogan">Making learning easy, fun and accessible. Manage your time, be reminded of classes,
+        exams and tasks, receive announcements - all in one place.</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="content_description_logo">LOGO</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="cpassword">Confirm Password</string>
+    <string name="username">Full Name</string>
+    <string name="email">Email</string>
+    <string name="course">Course</string>
+    <string name="registration_number">Registration Number</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="about_text">Work in progress : )</string>
+    <string name="unit_description_and_details">Unit description and details</string>
+    <string name="unitfr_lecturer">Lecturer :</string>
+    <string name="cancel_lesson_imgbtn">cancel lesson</string>
+    <string name="welcome_extra">Start with creating a new lesson! Or schedule some personal learning.</string>
+    <string name="exitMenuText">Exit</string>
+    <string name="topic">Topic</string>
+    <string name="type_t">Type</string>
+    <string name="unit_code">Unit Code</string>
+    <string name="create_new_lesson">Create new lesson</string>
+    <string name="title_activity_timetable">TimetableActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
